@@ -1,0 +1,12 @@
+{
+    "name": "raptor/adv",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {
+    	"phpunit/phpunit": "^5.7"
+    }
+}
