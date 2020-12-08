@@ -1,5 +1,5 @@
 ## cake-test-php
-$result = revertCharacters("Hello,world!");
+$result = revert("Hello,world!");
 
 
 echo $result; // olleH,dlrow!
